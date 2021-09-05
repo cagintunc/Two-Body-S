@@ -1,9 +1,9 @@
 
 Our team members are: 
-	Name&Surname: Çağın Tunç, ID: 280201090
-	Name&Surname: Emirhan Yorulmaz, ID:260206058
-	Name&Surname: Hüseyin Karakaya, ID: 270201041
-	Name&Surname: Ömer Faruk Akpınar, ID: 260206042
+	Name&Surname: Çağın Tunç
+	Name&Surname: Emirhan Yorulmaz
+	Name&Surname: Hüseyin Karakaya
+	Name&Surname: Ömer Faruk Akpınar
 
 
 Background about the project:
