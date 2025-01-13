@@ -1,9 +1,5 @@
 
-Our team members are: 
-	Name&Surname: Çağın Tunç
-	Name&Surname: Emirhan Yorulmaz
-	Name&Surname: Hüseyin Karakaya
-	Name&Surname: Ömer Faruk Akpınar
+Author: Çağın Tunç
 
 
 Background about the project:
